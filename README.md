@@ -35,3 +35,10 @@ pip install -r requirements.txt
 
 # open notebook
 jupyter notebook Ad_Targeting.ipynb
+
+## Results (Test Set)
+- Accuracy: 0.931
+- Precision: 0.968
+- Recall: 0.891
+- F1: 0.928
+- ROC-AUC: 0.982
