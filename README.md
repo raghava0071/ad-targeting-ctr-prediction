@@ -46,6 +46,12 @@ Users with lower daily internet usage and less time spent on the site are *more 
 - Threshold tuning & business interpretation
 - Ethical notes: contextual/time targeting over sensitive proxies
 
+## 🧰 Built With
+- 🐍 Python (pandas, numpy, scikit-learn)
+- 📊 Seaborn & Matplotlib for visualization
+- 🧮 Logistic Regression for prediction
+- ☁️ Google Colab for experimentation
+
 ## 🚀 Quick Start
 ```bash
 # clone
@@ -80,3 +86,10 @@ jupyter notebook Ad_Targeting.ipynb
 Cross-validation & model calibration
 Top-K bucketing for high-cardinality categories
 A/B tests for dayparting and creatives
+
+
+---
+
+📜 **Author:** [Raghavendra Karanam](https://github.com/raghava0071)  
+🎓 M.S. Data Science & Analytics, Florida Atlantic University  
+💬 Let’s connect on [LinkedIn](https://linkedin.com/in/raghavendra-karanam)
