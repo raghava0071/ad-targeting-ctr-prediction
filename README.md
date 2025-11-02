@@ -18,6 +18,22 @@ Predict whether a user will click an advertisement and identify the levers that 
 - **Top Signals:** Lower daily internet usage & less time-on-site ↑ click odds; Age ↑ clicks; Area Income ↓ clicks
 - **Actionable:** Daypart bids toward higher-CTR hours, native/less intrusive creatives for heavy-usage cohorts, age-tailored messaging
 
+## 🧠 About this Project
+
+This project was completed as part of the **National Student Data Corps (NSDC)** initiative.
+It explores the behavioral and demographic patterns influencing online ad engagement and develops an interpretable predictive model.
+
+**Key Steps**
+- Data Cleaning and Imputation (Mean & “Unknown” fill)
+- Feature Engineering (Hour, Day, Month from Timestamp)
+- Exploratory Data Analysis (Seaborn + Matplotlib)
+- Model Training (Logistic Regression)
+- Performance Evaluation (Precision, Recall, F1, ROC-AUC)
+- Feature Importance & Business Insights
+
+**Core Insight:**  
+Users with lower daily internet usage and less time spent on the site are *more likely to click* on ads — suggesting fatigue in heavy users and opportunity in moderate-usage cohorts.
+
 ## 🗂️ Repository
 - `Ad_Targeting.ipynb` – full EDA → modeling pipeline (Milestones 1–3)
 - `reports/figures` – ROC, PR, Confusion Matrix, Feature Importance
