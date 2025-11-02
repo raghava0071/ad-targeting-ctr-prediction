@@ -50,6 +50,15 @@ jupyter notebook Ad_Targeting.ipynb
 - F1: 0.928
 - ROC-AUC: 0.982
 
+## 📈 Visual Highlights
+
+| Metric | Visualization |
+|--------|----------------|
+| ROC & Precision-Recall Curve | ![ROC Curve](reports/figures/roc_curve.png) |
+| Confusion Matrix | ![Confusion Matrix](reports/figures/confusion_matrix.png) |
+| Feature Importance | ![Feature Importance](reports/figures/feature_importance.png) |
+| Age vs Clicked on Ad (Boxplot) | ![Boxplot](reports/figures/age_vs_click.png) |
+
  Next Steps 
 Cross-validation & model calibration
 Top-K bucketing for high-cardinality categories
