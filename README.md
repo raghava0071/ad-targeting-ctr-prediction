@@ -3,6 +3,13 @@
 **Author:** Raghavendra Karanam  
 **Program:** NSDC Data Science Projects – Ad Targeting
 
+# Ad Targeting: Click-Through Prediction (NSDC Project)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raghava0071/ad-targeting-ctr-prediction/blob/main/Raghavendra_Karanam_Ad_Targeting.ipynb)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## 📌 Project Summary
 Predict whether a user will click an advertisement and identify the levers that drive engagement.
 
